@@ -1,12 +1,12 @@
 {
   "ramens": [
     {
-        "id": 1,
-        "name": "Shoyu Ramen",
-        "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
-        "rating": 7,
-        "comment": "Delish. Can't go wrong with a classic!"
+      "id": 1,
+      "name": "Shoyu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 7,
+      "comment": "Delish. Can't go wrong with a classic!"
     },
     {
       "id": 2,
@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": "98c4",
+      "name": "Naked Ramen",
+      "restaurant": "Tatsu",
+      "image": "https://cdn.shortpixel.ai/spai/w_498+q_lossy+ret_img+to_webp/tatsuramen.com/wp-content/uploads/2022/02/ramen-naked-300x300.png",
+      "rating": "8",
+      "comment": "Great if you aren't wanting a broth!"
+    },
+    {
+      "id": "9949",
+      "name": "Naked Ramen",
+      "restaurant": "Tatsu",
+      "image": "https://cdn.shortpixel.ai/spai/w_498+q_lossy+ret_img+to_webp/tatsuramen.com/wp-content/uploads/2022/02/ramen-naked-300x300.png",
+      "rating": "8",
+      "comment": "Great if you are wanting the flavors of ramen, without the broth! "
+    },
+    {
+      "id": "3ed4",
+      "name": "Cheeky Ramen",
+      "restaurant": "Tatsu",
+      "image": "https://cdn.shortpixel.ai/spai/w_498+q_lossy+ret_img+to_webp/tatsuramen.com/wp-content/uploads/2022/04/Cheeky-300x300.png",
+      "rating": "6",
+      "comment": "Cheeky indeed"
     }
   ]
 }
